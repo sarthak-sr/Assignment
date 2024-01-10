@@ -1,5 +1,6 @@
-# Assignment
-- Wysa Assignment
+# Wysa Assignment
+How to replicate the model implementation:
+
 - Upliod the .ipynb file into Google Collab noteboook
 - Upload the app.py file
 - Upload the original provided dataset .xlsx file
